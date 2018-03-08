@@ -1,7 +1,7 @@
 /**
  * 
  */
-package java.lang;
+package java.lang.qq;
 
 /**
  * @author liqiankun
